@@ -1,2 +1,5 @@
 # ap6
-AP6 Knowledge Base
+
+# Azure..
+
+- Azure 101
